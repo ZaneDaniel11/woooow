@@ -1,0 +1,89 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px; 
+    border-radius: 20px; 
+}
+
+table, th, td {
+    
+    padding: 8px;
+    text-align: left;
+}
+
+
+.loadToggleContainer
+{
+    margin-top: 30px;
+    display: flex;
+   justify-content: center;
+}
+
+.loadToggleContainer button
+{
+        width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #C72A25;
+    border-style: none;
+    font-size: 20px;
+   
+    color: white;
+}
+
+.loadToggleContainer button:hover
+{
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #C72A25;
+    border-style: none;
+    font-size: 20px;
+   
+    color: white;
+}
+
+.p1{
+    font-size: 64px;
+    font-style: normal;
+    line-height: normal;
+    color: #D53C31;
+}
+.p2{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.section2{
+    margin-top: 30px;
+    display: block;
+    margin-left: 88px;
+}
+
+.bodypic
+{
+    
+    height: 600px;
+    flex-shrink: 0;
+    
+}
+.bodypic img {
+    width: 100%;
+    height: 100%;
+}
+
+.tableContainer
+{
+    margin-right: 88px;
+    /* height: 700px; */
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #EBEBEB;
+    margin-left: 88px;
+    padding: 20px;
+    
+}

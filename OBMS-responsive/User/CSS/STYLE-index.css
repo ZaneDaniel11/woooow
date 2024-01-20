@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    
+    color: #000;
+    font-family: 'Roboto' !important;
+    height: 2000px;
+    
+}
+p
+{
+    margin: 0;
+}
+.bodypic
+{
+    
+    height: 600px;
+    flex-shrink: 0;
+    
+}
+.bodypic img {
+    width: 100%;
+    height: 100%;
+}
+
+.section2{
+    margin-top: 30px;
+    display: block;
+    margin-left: 88px;
+}
+
+.p1{
+    font-size: 60px;
+    font-weight: bolder;
+    font-style: normal;
+    line-height: normal;
+}
+.p2{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.p3
+{
+    color: #D53C31;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    
+}
+
+
+.section3 {
+    display: block;
+    margin-left: 88px;
+    margin-top: 50px;
+    margin-bottom: 41px;
+}
+.tablecontianer
+{
+    margin-right: 88px;
+    /* height: 700px; */
+    background-color: #EBEBEB;
+    flex-shrink: 0;
+    border-radius: 20px;
+    margin-left: 88px;
+    padding: 20px;
+}
+
+.tableButtonContainer
+{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:40px
+}
+
+.tableButtonContainer button
+{
+    width: 217px;
+    height: 87px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    border-style: none;
+}
+.tablecontianer button:hover{
+    width: 228px;
+    height: 87px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #666;
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    transition: 1s; 
+    cursor:pointer;
+}
+
+.tableContainer
+{
+    width: 1064px;
+    
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+    border-color: #000;
+    margin-left: 55px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px; 
+    border-radius: 20px; 
+}
+
+table, th, td {
+    
+    padding: 8px;
+    text-align: left;
+}
+
+
+.loadToggleContainer
+{
+    margin-top: 30px;
+    display: flex;
+   justify-content: center;
+}
+
+.loadToggleContainer button
+{
+        width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #C72A25;
+    border-style: none;
+    font-size: 20px;
+   
+    color: white;
+}
+
+.loadToggleContainer button:hover
+{
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #C72A25;
+    border-style: none;
+    font-size: 20px;
+   
+    color: white;
+}
+
+/* Start */
+
